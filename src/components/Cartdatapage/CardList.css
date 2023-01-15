@@ -1,0 +1,33 @@
+.cardList {
+  margin-left: 20%;
+  border-radius: 6px;
+  display: grid;
+  width: 70%;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 500);
+  gap: 50px;
+  padding: 30px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+@media screen and (max-width: 767px) {
+  .cardList {
+    margin: auto;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+  }
+}
+
+@media all and (min-width: 767px) and (max-width: 1023px) {
+  .cardList {
+    margin: auto;
+    margin-top: 5%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+}
+

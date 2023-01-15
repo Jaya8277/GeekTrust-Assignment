@@ -1,0 +1,60 @@
+{
+  "cartData": [
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Black Polo",
+      "price": 250,
+      "quant": 3,
+      "id": 1
+    },
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Blue Polo",
+      "price": 350,
+      "quant": 3,
+      "id": 2
+    },
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Blue Polo",
+      "price": 350,
+      "quant": 3,
+      "id": 3
+    },
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Black Polo",
+      "price": 250,
+      "quant": 3,
+      "id": 4
+    },
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Black Polo",
+      "price": 250,
+      "quant": 3,
+      "id": 5
+    },
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Black Polo",
+      "price": 250,
+      "quant": 3,
+      "id": 6
+    },
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Black Polo",
+      "price": 250,
+      "quant": 3,
+      "id": 7
+    },
+    {
+      "img": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/polo-tshirts.png",
+      "name": "Black Polo",
+      "price": 250,
+      "quant": 3,
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+.mainContainer {
+  height: auto;
+  width: 70%;
+  margin-top: 20px;
+  margin: auto;
+  gap: 30px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  padding: 30px;
+}
+
+.cartcard {
+  display: flex;
+  height: 140px;
+  width: 90%;
+  margin-top: 20px;
+  justify-content: space-around;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.cartcard > img {
+  height: 70px;
+  width: 80px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.cartcard > div {
+  margin-top: 10px;
+}
+
+.cartcard > select {
+  height: 30px;
+  width: 130px;
+  margin-top: 50px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+#cardbtn {
+  height: 30px;
+  font-size: 18px;
+  width: 140px;
+  border-radius: 5px;
+  margin-top: 50px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
